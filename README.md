@@ -75,7 +75,7 @@ From our finding and analysis, we can see certain feature have more positive and
 |---|---|
 |GrLivArea|27366.120619|
 |OverallQual|11976.649996|
-|YearBuilt8549.112980|
+|YearBuilt|8549.112980|
 |Neighborhood_NridgHt|8242.509729|
 |BsmtLivArea|8045.530091|
 |TotalBsmtSF|7651.534862|
